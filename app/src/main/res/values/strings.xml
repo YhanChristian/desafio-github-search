@@ -2,4 +2,9 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_user_name">saved_user_name</string>
+    <string name="failure_to_get_repos">Falha ao buscar os repositórios!</string>
+    <string name="success_to_get_repos">Repositórios carregados com sucesso!</string>
+    <string name="failure_username_empty">Favor preencher campo para busca de dados!</string>
+    <string name="empty_repositories">Não há repositórios!</string>
 </resources>
